@@ -1,2 +1,3 @@
 # VR-Gloves-Report
-Report for the VR-gloves thesis project 
+Report for the VR-gloves thesis project     
+<div align="center">Centered text</div>
